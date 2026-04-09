@@ -1,4 +1,4 @@
-# 1050 Robot
+# Food Delivery Robot V1
 
 This is mock control code for a food delivery robot running on an ESP-32 microcontroller. The robot navigates on a table, avoids obstacles, and unlocks a lid using RFID.
 
